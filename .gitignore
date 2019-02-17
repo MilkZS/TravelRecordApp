@@ -1,8 +1,8 @@
 code/.idea
 code/app/src/androidTest
 code/app/src/test/
-code/build
-demo/.idea
-demo/app/src/androidTest
-demo/app/src/test/
-demo/build
+code/app/build
+demo/*/.idea
+demo/*/app/src/androidTest
+demo/*/app/src/test/
+demo/*/app/build
