@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     * nixu
+     * 百度地图 SDK 使用Demo
      */
 
     @Override
